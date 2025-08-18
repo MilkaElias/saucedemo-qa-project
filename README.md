@@ -17,7 +17,14 @@ It includes manual test cases, bug reports, automation scripts, and API testing 
 ---
 
 ## 🧪 Tools & Technologies
-- **Languages:** Java, JavaScript  
+- **Languages:** Java, JavaScript
+
+---
+
+.DS_Store
+  
+---
+
 - **Automation:** Selenium WebDriver, TestNG  
 - **API Testing:** Postman  
 - **Bug Tracking:** Jira (sample reports)  
