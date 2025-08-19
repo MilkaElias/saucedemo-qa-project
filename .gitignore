@@ -25,3 +25,7 @@ replay_pid*
 
 # MACOS Files #
 .DS_Store
+
+# IntelliJ Files #
+*.idea
+*.iml
